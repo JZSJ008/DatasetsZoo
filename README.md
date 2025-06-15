@@ -30,6 +30,7 @@
 - 3500张图 [含VOC+COCO+YOLO三种格式+划分脚本+训练脚本]：[下载链接](https://mbd.pub/o/bread/mbd-YZWUl5ttag==)
 #### 铁路工人安全检测数据集
 - 1000张图 [含VOC+COCO+YOLO三种格式+划分脚本+训练脚本]：[下载链接](https://mbd.pub/o/bread/mbd-YZWUl5ttaw==)
+- 3000张图 [含VOC+COCO+YOLO三种格式+划分脚本+训练脚本]：[下载链接](https://mbd.pub/o/bread/YZWUl51sag==)
 ### 生活相关
 #### 垃圾桶满溢检测数据集
 - 1000张图 [含VOC+COCO+YOLO三种格式+划分脚本+训练脚本]：[下载链接](https://mbd.pub/o/bread/mbd-YZWUl5tvaQ==)
